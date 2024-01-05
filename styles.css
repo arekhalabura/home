@@ -1,0 +1,16 @@
+body {
+    background-color: #000000; /* Czarne tło */
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #ffffff; /* Białe litery */
+}
+
+button {
+    padding: 15px 30px; /* Trochę większe przyciski */
+    font-size: 16px;
+    margin: 10px;
+}
